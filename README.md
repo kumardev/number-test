@@ -1,24 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+1) Install rvm and using rvm install ruby 2.4.1p111
 
-Things you may want to cover:
+2) To run the code , just go into the the lib folder and execute ruby convert_number_to_word.rb
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
